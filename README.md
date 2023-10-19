@@ -11,3 +11,15 @@ git config --list
 ```
 
 Чтобы выйти из режима просмотра, нажмите `Q`
+
+### Отправляем коммиты на GitHub
+
+```bash
+git push origin main
+```
+
+### Принимаем коммиты с GitHub
+
+```bash
+git pull origin main
+```
